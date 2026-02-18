@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently building a DNA Analyser
-- 🌱 I’m currently learning ...
+- 🌱 I’m an active volunteer at Vrikshit foundation.
 - 💬 Ask me about biotech and forensic science.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/aastha-sharma-177027343/)
 - ⚡ Fun fact: I'm a certified yapper.
